@@ -78,6 +78,13 @@ Upload an image in ComfyUI’s interface.
 Manually select either LoRA model in the LoRA Loader node.
 Run the workflow to generate the historical attire output.
 
+**Connect to External Display**
+For live installations or public demonstrations:
+connect the webcam on top of the monitor and adjust the size of the image via OBS.
+Connect your system to the external monitor via HDMI cable.
+Arrange the display order so the external monitor is positioned as the main output for TouchDesigner window top.
+There are two window tops one to see the user and one to show the generated image
+
 💡 Tips
 For best results, use a well-lit environment.
 Higher VRAM GPUs (>=8GB) will improve generation speed.
